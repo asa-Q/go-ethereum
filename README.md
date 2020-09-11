@@ -1,4 +1,7 @@
-## Go Ethereum
+## Go Ethereum asa-Q
+
+go env -w GOPROXY=https://goproxy.cn,direct
+
 
 Official Golang implementation of the Ethereum protocol.
 
